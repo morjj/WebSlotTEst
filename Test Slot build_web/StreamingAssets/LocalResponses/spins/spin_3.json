@@ -1,0 +1,76 @@
+{
+	"success": true,
+	"data": {
+		"id": 25,
+		"reward": {
+			"coins": 200,
+			"spins": 0
+		},
+		"userId": 1,
+		"slotMachineId": 1,
+		"result": {
+			"reelsData": [
+				{
+					"id": 0,
+					"symbols":[
+						"watermelon",
+						"bell",
+						"cherry"
+					]
+				},
+				{
+					"id": 1,
+					"symbols":[
+						"seven",
+						"bell",
+						"seven"
+					]
+				},
+				{
+					"id": 2,
+					"symbols":[
+						"bar",
+						"bell",
+						"watermelon"
+					]
+				}
+			],
+			"combo": [
+				{
+					"lineId": 10,
+					"itemsCoordinate":[
+						{
+							"reelId": 0,
+							"nestId": 0
+						},
+						{
+							"reelId": 1,
+							"nestId": 1
+						},
+						{
+							"reelId": 2,
+							"nestId": 1
+						}
+					]
+				},
+				{
+					"lineId": 5,
+					"itemsCoordinate":[
+						{
+							"reelId": 0,
+							"nestId": 2
+						},
+						{
+							"reelId": 1,
+							"nestId": 1
+						},
+						{
+							"reelId": 2,
+							"nestId": 0
+						}
+					]
+				}
+			]
+		}
+	}
+}

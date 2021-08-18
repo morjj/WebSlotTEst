@@ -1,0 +1,14 @@
+{
+	"success": true,
+	"message": "user_logget_in",
+	"data": {
+		"accessToken": "Luke, come to dark side!",
+		"balance": 1000,
+		"spins": 0,
+		"id": 1,
+		"password": "12345678",
+		"login": "Pikachu",
+		"updatedAt": "2012-02-17T18:23:12.139Z",
+		"createdAt": "2012-02-17T18:23:12.139Z"
+	}
+}

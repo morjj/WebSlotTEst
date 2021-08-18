@@ -1,0 +1,38 @@
+{
+	"success": true,
+	"data": {
+		"id": 25,
+		"reward": null,
+		"userId": 1,
+		"slotMachineId": 1,
+		"result": {
+			"reelsData": [
+				{
+					"id": 0,
+					"symbols":[
+						"seven",
+						"bell",
+						"doublebar"
+					]
+				},
+				{
+					"id": 1,
+					"symbols":[
+						"cherry",
+						"bar",
+						"seven"
+					]
+				},
+				{
+					"id": 2,
+					"symbols":[
+						"seven",
+						"bell",
+						"watermelon"
+					]
+				}
+			],
+			"combo": []
+		}
+	}
+}

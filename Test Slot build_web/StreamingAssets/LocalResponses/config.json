@@ -1,0 +1,92 @@
+{
+	"success": true,
+	"message": "joined",
+	"config":{
+		"items":{
+			"symbols":[
+				"cherry",
+				"bell",
+				"seven",
+				"watermelon",
+				"bar",
+				"doublebar"
+			],
+			"chances":[
+				10.5,
+				10,
+				25,
+				30,
+				24,
+				0.5
+			],
+			"combos":[
+				{
+					"combo": [
+						"cherry",
+						"cherry",
+						"cherry"
+					],
+					"reward":{
+						"coins": 500,
+						"spins": 0
+					}
+				},
+				{
+					"combo": [
+						"bell",
+						"bell",
+						"bell"
+					],
+					"reward":{
+						"coins": 1000,
+						"spins": 0
+					}
+				},
+				{
+					"combo": [
+						"watermelon",
+						"watermelon",
+						"watermelon"
+					],
+					"reward":{
+						"coins": 1500,
+						"spins": 0
+					}
+				},
+				{
+					"combo": [
+						"seven",
+						"seven",
+						"seven"
+					],
+					"reward":{
+						"coins": 2000,
+						"spins": 1
+					}
+				},
+				{
+					"combo": [
+						"bar",
+						"bar",
+						"bar"
+					],
+					"reward":{
+						"coins": 5000,
+						"spins": 5
+					}
+				},
+				{
+					"combo": [
+						"doublebar",
+						"doublebar",
+						"doublebar"
+					],
+					"reward":{
+						"coins": 0,
+						"spins": 10
+					}
+				}
+			]
+		}
+	}
+}

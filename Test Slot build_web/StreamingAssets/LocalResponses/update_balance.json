@@ -1,0 +1,13 @@
+{
+	"success": true,
+	"message": "balance_updated",
+	"data": {
+		"balance": 100000,
+		"spins": 0,
+		"id": 1,
+		"password": "12345678",
+		"login": "Vlad",
+		"updatedAt": "2012-02-17T18:23:12.139Z",
+		"createdAt": "2012-02-17T18:23:12.139Z"
+	}
+}
